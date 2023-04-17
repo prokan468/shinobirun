@@ -236,7 +236,7 @@ world = World()
 player, health_bar = world.process_data(world_data)
 
 #menu setup
-mc = menu.Menu(50, 400, 2)
+mc = menu.Menu(250, 330, 1.3)
 exit_fade = Screenfade(2, ORCHRE, 4)
 
 run = True
