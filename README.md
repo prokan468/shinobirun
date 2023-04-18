@@ -1,6 +1,6 @@
 # Shinobi Run- Datte Bayo!
 
-![sc1](https://user-images.githubusercontent.com/61049742/232566814-564370c7-26ea-4d05-8221-21a9f82cf3e6.png)
+![Shinobi Run](https://user-images.githubusercontent.com/61049742/232842065-a1961bcd-37d6-4b04-858c-3c95f29f8a22.png)
 
 ## Inspiration
 Initially when we started this hackathon, we just had a rough idea that we want a retro game. Further, we decided we want a game like 'Cadillacs and Dinosaurs'. 
